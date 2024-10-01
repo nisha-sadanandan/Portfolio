@@ -1,75 +1,25 @@
-# Nuxt 3 Minimal Starter
+# Portfolio
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Clone the project
 
-## Setup
+git clone https://github.com/nisha-sadanandan/Portfolio.git
 
-Make sure to install the dependencies:
+Go to the project directory
 
-```bash
-# npm
+cd portfolio
+
+Install dependencies
+
 npm install
 
-# pnpm
-pnpm install
+Start the server
 
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
 npm run dev
 
-# pnpm
-pnpm run dev
+Once server start running, open a browser and navigate to http://localhost:3000 to access the application.
 
-# yarn
-yarn dev
 
-# bun
-bun run dev
-```
 
-## Production
 
-Build the application for production:
 
-```bash
-# npm
-npm run build
 
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
