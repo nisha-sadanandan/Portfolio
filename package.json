@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/image": "^1.8.0",
+    "bootstrap": "^5.3.3",
+    "nuxt": "^3.13.0",
+    "nuxt-app": "file:",
+    "shiki": "^1.18.0",
+    "usebootstrap": "^3.5.49",
+    "vue": "latest",
+    "vue-router": "latest"
+  }
+}
